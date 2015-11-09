@@ -5,4 +5,5 @@
 # 2. Create place executable jar inside this folder.
 # 3. Place run.sh file also in same folder.
 # 4. Run run.sh
+# 5. Inputing parameter 1 ->runs feature 1 of problema nd 2 will execute second feature. 
 
